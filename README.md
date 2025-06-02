@@ -5,11 +5,9 @@
 
 I’m a passionate Computer Science Bachelor's student from Pretoria, South Africa, with a strong interest in software development and artificial intelligence. I thrive on building meaningful, real-world projects that make a difference.
 
-    * Specializing in Software Engineering with a focus on AI and Machine Learning.
-
-    * Skilled in C#, JavaScript, Python, and modern web development technologies.
-
-    * Fascinated by innovative, intelligent systems that solve real-world challenges.
+   - Specializing in Software Engineering with a focus on AI and Machine Learning.
+   - Skilled in C#, JavaScript, Python, and modern web development technologies.
+   - Fascinated by innovative, intelligent systems that solve real-world challenges.
 
 💻 Skills & Technologies
 Languages	Frameworks & Libraries	Tools & Platforms

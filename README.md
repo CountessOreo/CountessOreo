@@ -29,7 +29,7 @@ I’m a passionate Computer Science Bachelor's student from Pretoria, South Afri
 | Git, GitHub                      |
 
 
-📫 Let’s Connect
+## 📫 Let’s Connect
 
    LinkedIn : www.linkedin.com/in/hayley-treutens-2051aa24a
    

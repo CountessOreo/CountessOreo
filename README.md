@@ -1,15 +1,14 @@
 # Hi, I’m Hayley Treutens 👋
+![Pink Illustrated Gadget Review LinkedIn Banner](https://github.com/user-attachments/assets/1a5e384b-a14c-4947-86d4-e17d50a89807)
 
-I’m a Computer Science honours student from Pretoria, South Africa, passionate about software development, AI/ML, and building meaningful projects that solve real-world problems.
-🚀 About Me
+🌸 About Me
+I’m a passionate Computer Science Bachelor's student from Pretoria, South Africa, with a strong interest in software development and artificial intelligence. I thrive on building meaningful, real-world projects that make a difference.
 
-    Currently specializing in Software Engineering with a focus on AI and Machine Learning.
+    Specializing in Software Engineering with a focus on AI and Machine Learning.
 
-    Experienced with C#, JavaScript, Python, and web development technologies.
+    Skilled in C#, JavaScript, Python, and modern web development technologies.
 
-    Enthusiastic about creating clean, efficient, and scalable code.
-
-    Lover of innovative solutions, game development, and tech that makes a difference.
+    Fascinated by innovative, intelligent systems that solve real-world challenges.
 
 💻 Skills & Technologies
 Languages	Frameworks & Libraries	Tools & Platforms

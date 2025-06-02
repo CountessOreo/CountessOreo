@@ -31,6 +31,5 @@ I’m a passionate Computer Science Bachelor's student from Pretoria, South Afri
 
 📫 Let’s Connect
 
-    LinkedIn : www.linkedin.com/in/hayley-treutens-2051aa24a
-
-    Email: hayleytreutens@example.com
+   LinkedIn : www.linkedin.com/in/hayley-treutens-2051aa24a
+   Email: hayleytreutens@example.com

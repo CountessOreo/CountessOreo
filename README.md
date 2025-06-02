@@ -12,25 +12,25 @@ I’m a passionate Computer Science Bachelor's student from Pretoria, South Afri
 
 ## 💻 Skills & Technologies
 
-| Languages   | Frameworks & Libraries        | Tools & Platforms       |
-|-------------|-------------------------------|--------------------------|
-| C#          | .NET, ASP.NET                 | Git, GitHub              |
-| JavaScript  | React, Node.js                | VS Code, Docker          |
-| Python      | TensorFlow, scikit-learn      | Linux, REST APIs         |
-| SQL         | –                             | –                        |
+| Programming Languages    |  Frameworks & Libraries   |
+|--------------------------|---------------------------|
+| C#                       | .NET, ASP.NET             |
+| Python                   | TensorFlow, scikit-learn  |
+| JavaScript               | Node.js                   |
+| HTML, CSS                |                           |
+| SQL                      |Mongoose, MS SQL           |
 
-🌟 What I’m Working On
 
-    AI-driven projects that enhance user experiences.
+| Tools & Platforms                |
+|----------------------------------|
+| Visual Studio, VSCode            |
+| Jupyter Notebook, Hugging Face   |
+| MS Teams, Microsoft Office       |
+| Git, GitHub                      |
 
-    Web apps integrating machine learning models.
-
-    Personal projects focusing on clean architecture and code quality.
 
 📫 Let’s Connect
 
-    LinkedIn
+    LinkedIn : www.linkedin.com/in/hayley-treutens-2051aa24a
 
-    Twitter
-
-    Email: your.email@example.com
+    Email: hayleytreutens@example.com

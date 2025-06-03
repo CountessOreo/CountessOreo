@@ -12,21 +12,13 @@ I’m a passionate Computer Science Bachelor's student from Pretoria, South Afri
 
 ## 💻 Skills & Technologies
 
-| Programming Languages    |  Frameworks & Libraries   |
-|--------------------------|---------------------------|
-| C#                       | .NET, ASP.NET             |
-| Python                   | TensorFlow, scikit-learn  |
-| JavaScript               | Node.js                   |
-| HTML, CSS                |                           |
+| Programming Languages    |  Frameworks & Libraries   |                                 | Tools & Platforms                |
+|--------------------------|---------------------------|                                 |----------------------------------|
+| C#                       | .NET, ASP.NET             |                                 | Visual Studio, VSCode            |
+| Python                   | TensorFlow, scikit-learn  |                                 | Jupyter Notebook, Hugging Face   |
+| JavaScript               | Node.js                   |                                 | MS Teams, Microsoft Office       |
+| HTML, CSS                |                           |                                 | Git, GitHub                      |
 | SQL                      |Mongoose, MS SQL           |
-
-
-| Tools & Platforms                |
-|----------------------------------|
-| Visual Studio, VSCode            |
-| Jupyter Notebook, Hugging Face   |
-| MS Teams, Microsoft Office       |
-| Git, GitHub                      |
 
 
 ## 📫 Let’s Connect

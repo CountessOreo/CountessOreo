@@ -1,5 +1,6 @@
 # Hi, I’m Hayley Treutens 👋
-![Pink Illustrated Gadget Review LinkedIn Banner](https://github.com/user-attachments/assets/1a5e384b-a14c-4947-86d4-e17d50a89807)
+![Pink Illustrated Gadget Review LinkedIn Banner](https://github.com/user-attachments/assets/32824a1c-cc18-4c9f-a7aa-f573325d855b)
+
 
 ## 🌸 About Me
 
